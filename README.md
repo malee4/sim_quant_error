@@ -1,2 +1,2 @@
-Melody Lee
-melody.lee357@gmail.com
+@author Melody Lee
+@email melody.lee357@gmail.com
